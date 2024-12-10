@@ -1,1 +1,6 @@
-
+#  Download any image from the internet save it in the 'images' folder with the person name 
+#  project
+     -----IMAGES
+              --img1.jpg
+              --img2.png
+     ------face_recognition.py (main file )
